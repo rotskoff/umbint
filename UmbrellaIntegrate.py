@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+#
+# (c) Grant Rotskoff, 2013
+# maintainer: gmr1887@gmail.com
+# license: GPL-3
 
 usage="./UmbrellaIntegrate.py metadata.txt path.dat mean-force.dat pmf.dat"
 
