@@ -12,7 +12,7 @@ except:
   print "You must have numpy to use this script! Try \">$ module load python\" on clusters"
   exit(0)
 
-if len(argv)==4:
+if len(argv)==5:
   metadata=argv[1]
   pathfile=argv[2]
   mfrcfile=argv[3]
